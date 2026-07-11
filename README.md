@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Marcus Barros 👋
 
-<!--
-**mxrqs/mxrqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Analyst & Developer**  
+🎓 Information Systems student  
+📊 Interested in Data Analysis, Business Intelligence and Back-end Development
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data:** Power BI, SQL, Python, Excel and DAX
+- **Development:** Java, JavaScript, TypeScript and Node.js
+- **Tools:** Git, GitHub and Docker
+
+## Currently learning
+
+- Data modeling and visualization
+- Python for data analysis and automation
+- Back-end development
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/marcuspro) • [Email](marcusbarros.pro@gmail.com)
