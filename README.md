@@ -1,9 +1,14 @@
-# Hi, I'm Marcus Barros 👋
+<h1 align="center">Hi, I'm Marcus Barros 👋</h1>
 
-<p>
-  Data Analyst, Software Developer and Hardware Support Technician.<br>
+<p align="center">
+  <strong>Data Analyst • Software Developer • Hardware Support Technician</strong>
+</p>
+
+<p align="center">
   Systems Analysis and Development student focused on data, automation, back-end development and technical support.
 </p>
+
+---
 
 ## About Me
 
@@ -11,6 +16,8 @@
 - 💻 Developing automation and back-end solutions
 - 🛠️ Working with computer maintenance, troubleshooting and hardware support
 - 📚 Currently improving my skills in Power BI, SQL, Python and Java
+
+---
 
 ## Technologies
 
@@ -33,9 +40,9 @@
 
 ### Hardware & Technical Support
 
-![Hardware](https://img.shields.io/badge/Hardware-Maintenance-6C757D?style=for-the-badge)
-![Technical Support](https://img.shields.io/badge/Technical-Support-0078D4?style=for-the-badge)
-![Troubleshooting](https://img.shields.io/badge/System-Troubleshooting-5C2D91?style=for-the-badge)
+![PC Maintenance](https://img.shields.io/badge/PC%20Maintenance-6C757D?style=for-the-badge)
+![Technical Support](https://img.shields.io/badge/Technical%20Support-0078D4?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-5C2D91?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -46,25 +53,41 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
 ## Featured Projects
 
-- **Fleet Maintenance Dashboard** — Power BI and SQL dashboard for fleet cost and maintenance analysis.
-- **Grupo Pinho Chatbot** — Node.js chatbot for service and purchase order automation.
-- **FURIA Telegram Bot** — Python bot for match schedules, team information and useful links.
-- **Total Piscinas Website** — Responsive institutional website built with HTML, CSS and JavaScript.
+- [**Fleet Maintenance Dashboard**](https://github.com/mxrqs/fleet-maintenance-dashboard) — Power BI and SQL dashboard for fleet cost and maintenance analysis.
+- [**Grupo Pinho Chatbot**](https://github.com/mxrqs/Projeto-GrupoPinho) — Node.js chatbot for service and purchase order automation.
+- [**FURIA Telegram Bot**](https://github.com/mxrqs/Projeto-furia) — Python bot for match schedules, team information and useful links.
+- [**Total Piscinas Website**](https://github.com/mxrqs/Site-TotalPiscinas) — Responsive institutional website built with HTML, CSS and JavaScript.
+
+---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mxrqs&show_icons=true&theme=github_dark&hide_border=true" alt="Marcus Barros GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqs&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=mxrqs&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Marcus Barros GitHub statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqs&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most used languages"
+  />
 </p>
+
+---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcuspro)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusbarros.pro@gmail.com)
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusbarros.pro@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/marcuspro">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:marcusbarros.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
