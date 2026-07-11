@@ -55,23 +55,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-stats-extended.vercel.app/api?username=mxrqs&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Marcus Barros GitHub Stats"
-  />
-  <img
-    width="48%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mxrqs&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
----
-
 ## Contact
 
 <p>
