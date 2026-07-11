@@ -55,27 +55,18 @@
 
 ---
 
-## Featured Projects
-
-- [**Fleet Maintenance Dashboard**](https://github.com/mxrqs/fleet-maintenance-dashboard) — Power BI and SQL dashboard for fleet cost and maintenance analysis.
-- [**Grupo Pinho Chatbot**](https://github.com/mxrqs/Projeto-GrupoPinho) — Node.js chatbot for service and purchase order automation.
-- [**FURIA Telegram Bot**](https://github.com/mxrqs/Projeto-furia) — Python bot for match schedules, team information and useful links.
-- [**Total Piscinas Website**](https://github.com/mxrqs/Site-TotalPiscinas) — Responsive institutional website built with HTML, CSS and JavaScript.
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=mxrqs&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Marcus Barros GitHub statistics"
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=mxrqs&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Marcus Barros GitHub Stats"
   />
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrqs&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used languages"
+    width="48%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mxrqs&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
   />
 </p>
 
